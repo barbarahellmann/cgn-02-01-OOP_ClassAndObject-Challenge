@@ -18,7 +18,7 @@ public class Main {
         Person Dean = new Person("Dean", 29, "male");
         Person Dominik = new Person("Dominik", 33, "male");
         System.out.println("Hello, I am " + Christian.name + " and " + Christian.age + " years old.");
-        System.out.println("Hello, I am " + Dean.name + " and I´m " + Dean.gender + ".");
+        System.out.println("Hello, I am " + Dean.name + " and " + Dean.gender + ".");
         System.out.println("Hello, I am " + Dominik.name + " and " + Dominik.age + " years old.");
     }
 }
